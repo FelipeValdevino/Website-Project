@@ -72,11 +72,5 @@ Start
 | +-----------------------+ |
 ```
 
-## Projeto Mobile
-<div align="center">
-<img src="https://github.com/BrunoIrae/EducaLivros_Mobile/assets/104568215/828d4db0-af0a-4ead-9207-5be4c3060b57" width="700px"/>
-<img src="https://github.com/BrunoIrae/EducaLivros_Mobile/assets/104568215/f8be6b61-01cc-4b11-8b0e-7769edaf92dc" width="700px"/>
-<img src="https://github.com/BrunoIrae/EducaLivros_Mobile/assets/104568215/f13ce8e3-cddb-4a73-b0e8-ba041fc3cb1f" width="700px"/>
-<img src="https://github.com/BrunoIrae/EducaLivros_Mobile/assets/104568215/e9252d93-0756-4f3c-bc8a-e4c1372421f5" width="700px"/>
 
 </div>
